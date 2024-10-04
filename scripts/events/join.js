@@ -70,11 +70,11 @@ DEVELOPER :Mohammad Nayan
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/www.xnxx.com169
+https://https://www.facebook.com/profile.php?id=100094456665588
 
-🔵WHATSAPP NUMBER: wa.me/+8801615298449
+🔵WHATSAPP NUMBER: wa.me/+8801863905682
 
-🟢SUPPORT EMAIL: www.mdmnnm2004@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+🟢SUPPORT EMAIL: hiramanik451@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
     console.error(error);
