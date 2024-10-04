@@ -9,7 +9,7 @@
   "saveState": true,
   "BOTNAME": "Hira-bot",
   "PREFIX": "/",
-  "OPERATOR": [100094456665588]
+  "OPERATOR": [
     "100094456665588",
     "100000959749712"
   ],
