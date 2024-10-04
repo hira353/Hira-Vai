@@ -1,101 +1,27 @@
-[
-    {
-        "key": "datr",
-        "value": "az_XZgiG-eAdlCDgqmpzTXy7",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.680Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "sb",
-        "value": "az_XZhqwenio0i_m0OFwxaZz",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "ps_l",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "ps_n",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "dpr",
-        "value": "1.7829773426055908",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "locale",
-        "value": "en_US",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "wd",
-        "value": "1099x2024",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "c_user",
-        "value": "61565171195125",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "fr",
-        "value": "1rqi19cfJ5VBlcQZz.AWW5XM6M3wri59DsWT6cd_fGjno.Bm_64Q..AAA.0.0.Bm_67n.AWXH7QGr5oY",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "xs",
-        "value": "15%3AL4LZ6HBfWUjfAg%3A2%3A1728032488%3A-1%3A11460",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.681Z",
-        "lastAccessed": "2024-10-04T09:11:16.681Z"
-    },
-    {
-        "key": "presence",
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1728033074579%2C%22v%22%3A1%7D",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-04T09:11:16.682Z",
-        "lastAccessed": "2024-10-04T09:11:16.682Z"
-    }
-]
+{
+  "author": "Nayan",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "en",
+  "notification": false,
+  "approval": false,
+  "saveState": true,
+  "BOTNAME": "Hira-bot",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "100094456665588",
+    "100094456665588"
+  ],
+  "ADMINBOT": [
+    "100094456665588",
+    ""
+  ],
+  "OWNER": ["100000959749712"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+}
