@@ -1,27 +1,92 @@
-{
-  "author": "Nayan",
-  "autoRestart": true,
-  "accpetPending": false,
-  "developermode": false,
-  "language": "en",
-  "notification": false,
-  "approval": false,
-  "saveState": true,
-  "BOTNAME": "Hira-bot",
-  "PREFIX": "/",
-  "OPERATOR": [
-    "100094456665588",
-    "100000959749712"
-  ],
-  "ADMINBOT": [
-    "100094456665588",
-    ""
-  ],
-  "OWNER": ["100000959749712"], 
-  "APPROVED": [],
-  "disabledcmds": [],
-  "disabledevents": [],
-  "note": "make sure that the bot name you entered is all lowercase",
-  "notice": "dont cng author name and owner uid. otherwise bot not working",
-  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
-}
+[
+    {
+        "key": "datr",
+        "value": "az_XZgiG-eAdlCDgqmpzTXy7",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.705Z",
+        "lastAccessed": "2024-10-04T08:50:21.709Z"
+    },
+    {
+        "key": "sb",
+        "value": "az_XZhqwenio0i_m0OFwxaZz",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.709Z",
+        "lastAccessed": "2024-10-04T08:50:21.709Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.709Z",
+        "lastAccessed": "2024-10-04T08:50:21.709Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.709Z",
+        "lastAccessed": "2024-10-04T08:50:21.709Z"
+    },
+    {
+        "key": "dpr",
+        "value": "1.7829773426055908",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.709Z",
+        "lastAccessed": "2024-10-04T08:50:21.709Z"
+    },
+    {
+        "key": "wd",
+        "value": "1099x2024",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.709Z",
+        "lastAccessed": "2024-10-04T08:50:21.709Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.709Z",
+        "lastAccessed": "2024-10-04T08:50:21.709Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61565050269787",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.710Z",
+        "lastAccessed": "2024-10-04T08:50:21.710Z"
+    },
+    {
+        "key": "xs",
+        "value": "28%3AV9Ag5VtmuyfKWg%3A2%3A1728023045%3A-1%3A11773",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.710Z",
+        "lastAccessed": "2024-10-04T08:50:21.710Z"
+    },
+    {
+        "key": "fr",
+        "value": "1KkqokZzpqIirRokT.AWWP3SknyoW0MeUIpHI0vIxmNfU.Bm_4mo..AAA.0.0.Bm_4oI.AWWACod3JIE",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-04T08:50:21.710Z",
+        "lastAccessed": "2024-10-04T08:50:21.710Z"
+    }
+]
